@@ -23,3 +23,18 @@ Explore Explainable AI (XAI) techniques.
 Build end-to-end Machine Learning projects.
 
 Maintain a consistent record of my learning and practical work.
+
+
+🛠️ Technologies & Tools
+
+Programming Language: Python
+
+Data Manipulation: NumPy, Pandas
+
+Data Visualization: Matplotlib, Seaborn
+
+Machine Learning: Scikit-learn
+
+Development Environment: Jupyter Notebook
+
+Version Control: Git and GitHub
